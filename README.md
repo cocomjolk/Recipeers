@@ -10,7 +10,7 @@
 
 Food is a common and popular topic on social media but existing options don't fcilitate easy recipe sharing.
 
-**[Site](http://recipeers.herokuapp.com/)**
+# [Website](http://recipeers.herokuapp.com/)
 
 
 ## Technologies:
